@@ -1,0 +1,20 @@
+{
+  "app_name": "Musix",
+  "play": "Main",
+  "settings": "Pengaturan",
+  "quit": "Keluar",
+  "select_mode": "Pilih Mode",
+  "stage_mode": "Mode Stage",
+  "casual_mode": "Mode Santai (Health)",
+  "time_attack": "Serangan Waktu (3 menit)",
+  "language": "Bahasa",
+  "reset_progress": "Atur Ulang Progres",
+  "exit_to_home": "Keluar ke Beranda",
+  "home": "Beranda",
+  "play_again": "Main Lagi",
+  "score": "Skor",
+  "question": "Soal",
+  "of": "dari",
+  "loading_quiz": "Memuat kuis...",
+  "volume": "Volume"
+}

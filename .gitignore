@@ -1,0 +1,31 @@
+﻿# Flutter / Dart
+.dart_tool/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Android
+**/.gradle/
+**/build/
+android/local.properties
+android/.cxx/
+
+# Windows generated
+windows/flutter/ephemeral/
+
+# Secrets
+.env
+
+# Large Assets
+assets/audio/
+
+# Logs/temp
+*.log
+*.tmp

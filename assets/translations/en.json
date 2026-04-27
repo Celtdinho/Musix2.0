@@ -1,0 +1,20 @@
+{
+  "app_name": "Musix",
+  "play": "Play",
+  "settings": "Settings",
+  "quit": "Quit",
+  "select_mode": "Select Mode",
+  "stage_mode": "Stage Mode",
+  "casual_mode": "Casual Mode (Health)",
+  "time_attack": "Time Attack (3 min)",
+  "language": "Language",
+  "reset_progress": "Reset Progress",
+  "exit_to_home": "Exit to Home",
+  "home": "Home",
+  "play_again": "Play Again",
+  "score": "Score",
+  "question": "Question",
+  "of": "of",
+  "loading_quiz": "Loading quiz...",
+  "volume": "Volume"
+}
