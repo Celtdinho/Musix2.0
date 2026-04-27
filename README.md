@@ -6,6 +6,16 @@
 
 **Musix** adalah aplikasi kuis musik interaktif yang dirancang untuk menguji dan memperluas pengetahuan musik Anda. Aplikasi ini menawarkan tiga mode permainan yang unik, dilengkapi dengan database lagu lokal yang ekstensif dan antarmuka pengguna yang modern dan intuitif.
 
+### Scrum ClickUp
+https://app.clickup.com/90181774309/v/s/901810294593
+
+### UI Prototype
+https://www.figma.com/design/Ei6DklA8fZEAxLRygJhKq8/Ui?node-id=0-1&t=LjPyzSL6XdVwRBPR-1
+
+### UX flow
+https://www.figma.com/design/WSpBYKxro71GX4kyUoPhsI/Untitled?node-id=0-1&t=8LXK3SoNCOpOeYuW-1 
+
+
 ## ✨ Fitur Utama
 
 ### 🎮 Tiga Mode Permainan
