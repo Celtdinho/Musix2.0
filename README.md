@@ -15,6 +15,25 @@ https://www.figma.com/design/Ei6DklA8fZEAxLRygJhKq8/Ui?node-id=0-1&t=LjPyzSL6XdV
 ### UX flow
 https://www.figma.com/design/WSpBYKxro71GX4kyUoPhsI/Untitled?node-id=0-1&t=8LXK3SoNCOpOeYuW-1 
 
+## Tampilan Aplikasi
+### Home
+![Gambar](1.jpeg).
+
+### Settings
+![Gambar](2.jpeg).
+
+### Mode Select
+![Gambar](3.jpeg).
+
+### Stage Select
+![Gambar](4.jpeg).
+
+### Quiz
+![Gambar](5.jpeg).
+
+### Result
+![Gambar](6.jpeg).
+
 
 ## ✨ Fitur Utama
 
